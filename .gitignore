@@ -1,2 +1,3 @@
 dist/
 mypackage.egg-info/
+venv/
